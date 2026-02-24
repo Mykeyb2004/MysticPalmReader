@@ -1,0 +1,7 @@
+{
+  "name": "AI 灵境手相",
+  "description": "一款由AI驱动的手相算命与运势分析应用。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
